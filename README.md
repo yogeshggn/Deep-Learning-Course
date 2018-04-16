@@ -1,3 +1,3 @@
 # Deep-Learning-Course
-Deep-Learning Convolutional-Neural-Networks Tensorflow RNN
+Deep-Learning Convolutional-Neural-Networks Tensorflow RNN Sequance Models
 
